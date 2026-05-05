@@ -1,0 +1,14 @@
+/Users/sachinkumar/Developer/DotNet/StructuralPatternsDemo/bin/Debug/net10.0/StructuralPatternsDemo
+/Users/sachinkumar/Developer/DotNet/StructuralPatternsDemo/bin/Debug/net10.0/StructuralPatternsDemo.deps.json
+/Users/sachinkumar/Developer/DotNet/StructuralPatternsDemo/bin/Debug/net10.0/StructuralPatternsDemo.runtimeconfig.json
+/Users/sachinkumar/Developer/DotNet/StructuralPatternsDemo/bin/Debug/net10.0/StructuralPatternsDemo.dll
+/Users/sachinkumar/Developer/DotNet/StructuralPatternsDemo/bin/Debug/net10.0/StructuralPatternsDemo.pdb
+/Users/sachinkumar/Developer/DotNet/StructuralPatternsDemo/obj/Debug/net10.0/StructuralPatternsDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sachinkumar/Developer/DotNet/StructuralPatternsDemo/obj/Debug/net10.0/StructuralPatternsDemo.AssemblyInfoInputs.cache
+/Users/sachinkumar/Developer/DotNet/StructuralPatternsDemo/obj/Debug/net10.0/StructuralPatternsDemo.AssemblyInfo.cs
+/Users/sachinkumar/Developer/DotNet/StructuralPatternsDemo/obj/Debug/net10.0/StructuralPatternsDemo.csproj.CoreCompileInputs.cache
+/Users/sachinkumar/Developer/DotNet/StructuralPatternsDemo/obj/Debug/net10.0/StructuralPatternsDemo.dll
+/Users/sachinkumar/Developer/DotNet/StructuralPatternsDemo/obj/Debug/net10.0/refint/StructuralPatternsDemo.dll
+/Users/sachinkumar/Developer/DotNet/StructuralPatternsDemo/obj/Debug/net10.0/StructuralPatternsDemo.pdb
+/Users/sachinkumar/Developer/DotNet/StructuralPatternsDemo/obj/Debug/net10.0/StructuralPatternsDemo.genruntimeconfig.cache
+/Users/sachinkumar/Developer/DotNet/StructuralPatternsDemo/obj/Debug/net10.0/ref/StructuralPatternsDemo.dll
